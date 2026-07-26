@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Mayurhr/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mayurhr/DSA/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mayurhr/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
