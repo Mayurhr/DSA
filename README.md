@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Mayurhr/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayurhr/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Mayurhr/DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
