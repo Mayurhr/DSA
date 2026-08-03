@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mayurhr/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayurhr/DSA/tree/master/0035-search-insert-position) |
+| [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -22,11 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Mayurhr/DSA/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/Mayurhr/DSA/tree/master/0290-word-pattern) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -79,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Mayurhr/DSA/tree/master/0100-same-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
