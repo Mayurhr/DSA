@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Mayurhr/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 ## Binary Search
 |  |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mayurhr/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
