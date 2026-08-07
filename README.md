@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mayurhr/DSA/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Mayurhr/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mayurhr/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Mayurhr/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mayurhr/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mayurhr/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Mayurhr/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mayurhr/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mayurhr/DSA/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Mayurhr/DSA/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/Mayurhr/DSA/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mayurhr/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Mayurhr/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Mayurhr/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
